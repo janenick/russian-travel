@@ -4,21 +4,20 @@
 
 .intro {
   font-family: "Inter", Arial, sans-serif;
-  max-width: 690px;
-  /*padding: 92px 456px 0 148px;*/
-  margin: 92px auto 0 156px;
+  /*max-width: 690px;*/
+  margin: 92px 0 0;
+  padding-left: 148px;
 }
 
 @media screen and (max-width: 1024px) {
   .intro {
-    /*padding: 85px 167px 0;*/
-    margin: 85px auto 0;
+    padding-left: 48px;
   }
 }
 
 @media screen and (max-width: 800px) {
   .intro {
-    max-width: 720px;
+    /*max-width: 720px;*/
     padding: 0 24px 0;
     margin: 88px 0 0;
   }
@@ -26,8 +25,8 @@
 
 @media screen and (max-width: 375px) {
   .intro {
-    max-width: 288px;
-   padding: 0 16px 0;
-   margin: 64px 0 0;
+    /*max-width: 320px;*/
+    padding: 0 16px 0;
+    margin: 64px 0 0;
   }
 }
