@@ -1,0 +1,17 @@
+@import url(./_column-width/places__place-row_column-width_f.css);
+
+.places__place-row {
+  display: flex;
+  margin-bottom: 48px;
+}
+
+@media screen and (max-width: 600px) {
+  .places__place-row {
+    flex-direction: column;
+    margin-bottom: 32px;
+  }
+}
+
+.places__place-row:last-child {
+  margin-bottom: 0px;
+}

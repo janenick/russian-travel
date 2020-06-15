@@ -1,0 +1,26 @@
+.places__place-row_column-width_f {
+  width: 460px;
+  margin-right: 40px;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__place-row_column-width_f {
+    width: 440px;
+    margin-right: 32px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .places__place-row_column-width_f {
+    width: 340px;
+    margin-right: 28px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .places__place-row_column-width_f {
+    width: 288px;
+    margin-right: 0;
+  }
+}
