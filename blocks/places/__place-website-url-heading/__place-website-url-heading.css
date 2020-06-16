@@ -2,4 +2,6 @@
   font-size: 12px;
   line-height: 12px;
   margin-top: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
 }
