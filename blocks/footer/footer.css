@@ -1,7 +1,7 @@
-@import url(./__link-list/footer__link-list.css);
-@import url(./__link-item/footer__link-item.css);
-@import url(./__author/footer__author.css);
-@import url(./__link/footer__link.css);
+@import url("./__link-list/footer__link-list.css");
+@import url("./__link-item/footer__link-item.css");
+@import url("./__author/footer__author.css");
+@import url("./__link/footer__link.css");
 
 .footer {
   font-family: "Inter", Arial, sans-serif;

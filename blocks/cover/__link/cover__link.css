@@ -1,6 +1,7 @@
 .cover__link {
-  background-image: url(../../../images/cover/cover-trains.jpg);
+  background-image: url("../../../images/cover/cover-trains.jpg");
   background-size: cover;
+  background-position: center;
 
   display: flex;
   flex-direction: column;

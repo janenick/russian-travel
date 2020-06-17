@@ -1,11 +1,11 @@
-@import url(./__place/places__place.css);
-@import url(./__place-title/places__place-title.css);
-@import url(./__place-image/places__place-image.css);
-@import url(./__place-website/places__place-website.css);
-@import url(./__place-website-url-heading/__place-website-url-heading.css);
-@import url(./__place-website-link/places__place-website-link.css);
-@import url(./__place-paragraph/places__place-paragraph.css);
-@import url(./__place-paragraphs/places__place-paragraphs.css);
+@import url("./__place/places__place.css");
+@import url("./__place-title/places__place-title.css");
+@import url("./__place-image/places__place-image.css");
+@import url("./__place-website/places__place-website.css");
+@import url("./__place-website-url-heading/__place-website-url-heading.css");
+@import url("./__place-website-link/places__place-website-link.css");
+@import url("./__place-paragraph/places__place-paragraph.css");
+@import url("./__place-paragraphs/places__place-paragraphs.css");
 
 .places {
   font-family: "Inter", Arial, sans-serif;
